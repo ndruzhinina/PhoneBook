@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3788965f-2885-4ef8-84a6-6383b6942bb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_aop_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_beans_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_context_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_core_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_expression_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_test_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_web_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/manifest.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/rest-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/RestServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/business/PhoneBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/business/PhoneBookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/controllers/CustomersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/models/CreateCustomerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/repositories/InMemoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/main/java/com/example/phonebookwebservice/repositories/InMemoryRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhoneBookWebService/src/test/java/com/example/phonebookwebservice/CustomersControllerIntegrationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1scUyabaDkguBVY4zhbs1p9gtvu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhoneBookMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.phonebook.main.PhoneBookMain" />
+      <module name="phonebook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3788965f-2885-4ef8-84a6-6383b6942bb8" name="Default Changelist" comment="" />
+      <created>1621171627410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621171627410</updated>
+      <workItem from="1621321305038" duration="105000" />
+      <workItem from="1621321424378" duration="1550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="85" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621172560792">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="184" y="85" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1621172560792" />
+    <state x="457" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1621172558094">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="457" y="232" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.804@0.23.1440.804" timestamp="1621172558094" />
+    <state width="466" height="438" key="DebuggerActiveHint" timestamp="1621177237621">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="466" height="438" key="DebuggerActiveHint/0.23.1440.804@0.23.1440.804" timestamp="1621177237621" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom" timestamp="1621283166761">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1621192380307" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1621283166761" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center" timestamp="1621283166760">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1621192380306" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1621283166760" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left" timestamp="1621283166760">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1621192380305" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1621283166760" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right" timestamp="1621283166761">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1621192380307" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1621283166761" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom" timestamp="1621283166762">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1621192083876" />
+    <state width="1398" height="297" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1621283166762" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center" timestamp="1621283166762">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1621192083876" />
+    <state width="1398" height="297" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1621283166762" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left" timestamp="1621283166761">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1621192083875" />
+    <state width="1398" height="297" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1621283166761" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right" timestamp="1621283166762">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1621192083876" />
+    <state width="1398" height="297" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1621283166762" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1621172464376">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1621172464376" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/phonebook/main/PhoneBookMain.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
